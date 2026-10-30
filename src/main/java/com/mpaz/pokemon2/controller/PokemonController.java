@@ -1,9 +1,9 @@
-package com.mpaz.pokemon2;
+package com.mpaz.pokemon2.controller;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
 
-public class HelloController {
+public class PokemonController {
     @FXML
     private Label welcomeText;
 
